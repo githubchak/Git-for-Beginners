@@ -1,0 +1,1 @@
+print("This is a file called python script")
